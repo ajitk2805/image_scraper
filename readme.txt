@@ -1,0 +1,1 @@
+This is an image scraper project.
